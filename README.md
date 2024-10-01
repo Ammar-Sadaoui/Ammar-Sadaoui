@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ammar-Sadaoui
-- 👀 I’m interested in AI and Loli
+- 👀 I’m interested in AI and cooking 
 - 🌱 I’m currently learning python and C#
 - 💞️ I’m looking to collaborate on my new work
 - 📫 How to reach me : ammar.gcb@proton.me
