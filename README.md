@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Ammar-Sadaoui
-- 👀 I’m interested in ray tracing and games decompilation
-- 🌱 I’m currently learning shaders and reverse engineering 
-- 💞️ I’m looking to collaborate on my new work on static recompiler for games consoles 
+- 👀 I’m interested in Video game preservation including decompilation and static recompilation 
+- 🌱 I’m currently learning shaders and lighting on games and reverse engineering game consoles  
 - 📫 How to reach me : ammar.gcb@proton.me
 - 😄 work as : sales manager
-- ⚡ Fun fact: i'm magic user 🧙‍♂️🪄✨️
+- ⚡ Fun fact: i own Technologies Research Lab
 
 <!---
 Ammar-Sadaoui/Ammar-Sadaoui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
